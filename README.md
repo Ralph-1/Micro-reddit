@@ -1,6 +1,6 @@
 # ACTIVE RECORD PROJECT - Micro-reddit
 ## This project is a kind of mini Reddit where users Post ideas and have discussings
-![screenshot](../images/img.png)
+![screenshot](./images/img.png)
 ## Built With
 
 - Ruby
