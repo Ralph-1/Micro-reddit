@@ -21,15 +21,15 @@
 ### Configuration
 
   Set up project using the above specifications
-    ### for HTTPS
-    - use ``` git clone https://github.com/Ralph-1/Micro-reddit.git ``` to clone the repository
-    ### for SSH
-    - use ``` git clone git@github.com:Ralph-1/Micro-reddit.git ``` to clone the repository
-    - Change to the parent directory of the project using 
-      ``` cd micro-reddit ```
-    - run ```bundle install ``` to install dependencies
-    - use ``` rails c ``` to go to the console
-    - use ``` rails s ``` to run the rails server
+   #### For HTTPS
+   - use ``` git clone https://github.com/Ralph-1/Micro-reddit.git ``` to clone the repository
+   #### For SSH
+   - use ``` git clone git@github.com:Ralph-1/Micro-reddit.git ``` to clone the repository
+   - Change to the parent directory of the project using 
+    ``` cd micro-reddit ```
+   - run ```bundle install ``` to install dependencies
+   - use ``` rails c ``` to go to the console
+   - use ``` rails s ``` to run the rails server
 
 ## Authors
 
@@ -57,8 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+- [Odin Projects](https://www.theodinproject.com/) and 
+- [Microverse](https://microverse.com)
 - etc
 
 ## 📝 License
